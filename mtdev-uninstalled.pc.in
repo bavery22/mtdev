@@ -1,0 +1,8 @@
+libdir=@abs_top_builddir@/src/.libs
+includedir=@abs_top_srcdir@/include
+
+Name: mtdev
+Description: Multitouch Protocol Translation Library (not installed)
+Version: @PACKAGE_VERSION@
+Libs: -L${libdir} -lmtdev
+Cflags: -I${includedir}

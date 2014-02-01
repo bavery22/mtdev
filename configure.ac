@@ -25,5 +25,6 @@ AC_PROG_INSTALL
 AC_CONFIG_FILES([Makefile
                  src/Makefile
                  test/Makefile
-                 mtdev.pc])
+                 mtdev.pc
+                 mtdev-uninstalled.pc])
 AC_OUTPUT
