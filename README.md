@@ -1,4 +1,7 @@
 mtdev
 =====
-
-Contains Android makefiles for klaatu in the klaatu branch. upstream points to bitmath so we can stay in sync. can be dropped into AOSP in external/mtdev and build using mm
+Master branch has only this Readme.md
+Contains Android makefiles for klaatu in the klaatu branch. 
+The upstream points to bitmath so we can stay in sync. 
+The Klaatu branch can be dropped into AOSP in external/mtdev and 
+    built using mm.
